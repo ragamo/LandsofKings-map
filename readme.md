@@ -24,7 +24,7 @@ $ npm run serve
 
 # Images
 
-[map1]: https://puu.sh/qRXNC/348c9a6921.png
+[map1]: https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/01.png
 
-[map2]: https://puu.sh/qRY3d/88f228e51d.png
+[map2]: https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/02.png
 
