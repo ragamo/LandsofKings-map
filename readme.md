@@ -24,7 +24,7 @@ $ npm run serve
 
 # Images
 
-[map1]: https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/01.png
+![Map 1](https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/01.png "Map 01")
 
-[map2]: https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/02.png
+![Map 2](https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/02.png "Map 02")
 
