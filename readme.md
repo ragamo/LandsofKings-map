@@ -22,7 +22,8 @@ Runs a local static webserver with watchify on port 8000
 $ npm run serve
 ```
 
-# Images
+
+# Screenshots
 
 ![Map 1](https://raw.githubusercontent.com/ragamo/LandsofKings-map/master/_screenshots/01.png "Map 01")
 
