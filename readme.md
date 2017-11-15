@@ -1,4 +1,4 @@
-# Lands of Kings - Voronoi Procedural Map Generator
+# Voronoi Procedural Map Generator
 
 Work in progress
 
